@@ -1,6 +1,6 @@
 cask "quickactions" do
-  version "0.1.0"
-  sha256 "0000000000000000000000000000000000000000000000000000000000000000"
+  version "0.2.2"
+  sha256 "2659380f20c05f2931abd9680fa20e4e04e113da2d3e8e73bc4956d857a22cc8"
 
   # Asset is hosted on this public tap repo (the source repo is private), so no token is
   # needed to download. The Release workflow in brikdesigns/quickactions publishes here.
